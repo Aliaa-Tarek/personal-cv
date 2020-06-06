@@ -1,0 +1,130 @@
+
+body
+{
+  margin: 0;
+  text-align: center;
+  font-family: 'Kaushan Script', cursive;
+}
+h1
+{
+  margin: 50px auto 0 auto;
+  font-family: 'Dancing Script', cursive;
+  font-size: 5.625rem; /*90px*/
+  color: #66BFBF;
+
+}
+h2
+{
+  font-size: 2.5rem; /*40px*/
+  color: #66BFBF;
+  font-weight: normal;
+}
+h3
+{
+  color: #11999E;
+}
+a{
+  color: #11999E;
+}
+p{
+  color:#40514E;
+}
+hr{
+  border-style: dotted;
+  border-width: 5px;
+  width: 4%;
+  border-bottom: 0;
+  border-color: #3fc1c9;
+  margin: 100px auto;
+}
+.top
+{
+  background-color: #E4F9F5;
+
+}
+.middle
+{
+  margin-top:100px;
+}
+.bottom
+{
+ background-color: #66BFBF;
+ margin-top:100px;
+ padding: 50px;
+}
+.bottom-cloud
+{
+  position: absolute;
+}
+.top-cloud
+{
+  position: relative;
+  left:250px;
+  top:20px;
+}
+.skill-row
+{
+  width:50%;
+  /* display: inline-block; */
+  margin: 100px auto 100px auto;
+  line-height: 2;
+  text-align: left;
+
+}
+.code-img{
+  width:25%;
+  float: left;
+  margin-right: 30px;
+}
+.tennis-img
+{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+/* .code-para
+{
+  clear:left;
+}
+.tennis-para{
+  clear:right;
+} */
+.btn{
+  background-color: #66BFBF;
+  /* display: inline-block; */
+  font-weight: bold;
+  color: white;
+  /* margin: 50px auto; */
+  /* width:10%;
+  height:10%; */
+  text-decoration: none;
+  padding: 10px;
+  border-radius: 6px;
+}
+.btn:hover{
+  background-color: white;
+  color:#66BFBF;
+}
+.contact-me
+{
+  margin-bottom:10px;
+}
+.footer-link{
+  margin: 50px;
+  text-decoration: none;
+
+}
+.profile{
+  text-align: center;
+}
+.intro{
+  width:40%;
+  margin:auto;
+  line-height: 2;
+
+}
+.contact-para{
+  width: 40%;
+  margin: 50px auto;
+  line-height: 2;
+}
